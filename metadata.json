@@ -1,0 +1,6 @@
+{
+  "name": "FireArena - Free Fire Esports Tournaments",
+  "description": "Premier Free Fire Esports Tournament platform with custom room matchmaking, automated slot allocation, dynamic prize pools, and bKash/Nagad wallet payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
